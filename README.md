@@ -1,10 +1,6 @@
 # Social-Media-Automation
 Deliver the right content at the right time to the right channel.
 
-Absolutely! Here's a **detailed and simple `README.md`** for your GitHub project that covers setup, configuration, usage, and folder structure clearly.
-
----
-
 ### ✅ `README.md`
 
 ```markdown
